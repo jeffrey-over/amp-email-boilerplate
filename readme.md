@@ -55,7 +55,7 @@
 ## Sandbox
 - https://amp.gmail.dev/playground/
 
-### Sources
+## Sources
 - https://amp.dev
 - https://ampproject.org
 - https://www.sparkpost.com
